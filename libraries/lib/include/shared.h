@@ -1,18 +1,3 @@
-#pragma once
-
-#ifndef MIN
-#define MIN(a, b) (a < b ? a : b)
-#endif
-
-#ifndef MAX
-#define MAX(a, b) (a > b ? a : b)
-#endif
-
-#define CLAMP01(x) MAX(0, MIN(x, 1))
-
-#ifndef MAX_GL_BOXES
-#define MAX_GL_BOXES 400
-#endif
-
-extern int WINDOW_WIDTH;
-extern int WINDOW_HEIGHT;
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb36fc45ea445e246d255ef3f3b02f7c95d52dce1b9e19237c5034b5f274cc29
+size 264

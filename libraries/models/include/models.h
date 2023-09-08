@@ -1,25 +1,3 @@
-#ifndef MODELS_H
-#define MODELS_H
-
-extern const char bodypose_rtm[];
-extern const int  bodypose_rtm_len;
-
-extern const char headpose_rtm[];
-extern const int headpose_rtm_len;
-
-extern const char facedetect_rtm[];
-extern const int  facedetect_rtm_len;
-
-extern const char peopledetect_rtm[];
-extern const int  peopledetect_rtm_len;
-
-extern const char segmentation_rtm[];
-extern const int  segmentation_rtm_len;
-
-extern const char peopledetect_rtm[];
-extern const int  peopledetect_rtm_len;
-
-extern const char safetygear_rtm[];
-extern const int  safetygear_rtm_len;
-
-#endif /* MODELS_H */
+version https://git-lfs.github.com/spec/v1
+oid sha256:1df6f6044c92f6b1c6cc23e8519a397576f0bdafd5b9217ab50717bebdb4b486
+size 584
