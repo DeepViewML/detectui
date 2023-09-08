@@ -1,0 +1,5 @@
+libraries/assets filter=lfs diff=lfs merge=lfs -text
+libraries/headless filter=lfs diff=lfs merge=lfs -text
+libraries/lib filter=lfs diff=lfs merge=lfs -text
+libraries/models filter=lfs diff=lfs merge=lfs -text
+libraries/wayland filter=lfs diff=lfs merge=lfs -text
